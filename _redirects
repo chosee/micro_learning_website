@@ -1,0 +1,8 @@
+# Redirects for Cloudflare Pages
+
+# Force HTTPS
+http://:splat https://:splat 301
+
+# If you add more pages later, this ensures clean URLs work
+# For now, with a single page site, this is not strictly needed
+# but good to have for future expansion
