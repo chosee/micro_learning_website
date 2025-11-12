@@ -37,7 +37,7 @@ yarn.lock
 
 # Cloudflare
 .wrangler/
-wrangler.toml
+# wrangler.toml - included for Cloudflare Pages deployment
 
 # Temporary files
 *.tmp
